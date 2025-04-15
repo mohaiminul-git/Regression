@@ -1,5 +1,5 @@
 
-# 📊 Regression Analysis of Bike Rental Demand
+# 📊 Regression Analysis, Model Validation and Diagnostics
 
 This project is an academic report developed as part of the *"Introductory Case Studies – Project III: Regression Analysis"* course at **TU Dortmund University** during the **winter term 2023/24**. The study investigates how various factors influence bike rental demand using linear and polynomial regression techniques.
 
